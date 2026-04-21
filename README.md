@@ -1,7 +1,6 @@
 # About Me
 I'm currently learning data science and machine learning.  
 I work with Python, scikit-learn, and NumPy, and I enjoy building models from scratch to understand how they work internally.  
-I’m currently improving my skills in end‑to‑end ML workflows and hands‑on project development.
 
 # Projects
 1. Neural Network From Scratch
