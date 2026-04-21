@@ -3,8 +3,7 @@ I'm currently learning data science and machine learning.
 I work with Python, scikit-learn, and NumPy, and I enjoy building models from scratch to understand how they work internally.  
 
 # Projects
-1. Neural Network From Scratch
-
+1. [Neural Network From Scratch](https://github.com/cmliaa/neural-network-from-scratch)
 
     A fully custom implementation of a feed‑forward neural network using only NumPy.
 
@@ -12,18 +11,17 @@ I work with Python, scikit-learn, and NumPy, and I enjoy building models from sc
 
     The project demonstrates core ML math concepts and shows how neural networks work internally without any deep learning libraries.
 
-3. Spotify Song Recommendation System
-
+2. [Spotify Song Recommendation System](https://github.com/cmliaa/spotify-song-recommender)
+    
    
     A content‑based music recommender that uses Spotify audio features to suggest similar songs.
 
     It performs feature scaling, PCA visualization, K‑Means clustering, and cosine‑similarity ranking to recommend tracks based on musical characteristics.
 
-    The system outputs similar songs given any track in the dataset
+    The system outputs similar songs given any track in the dataset.
 
 
-5. House Price Prediction
-
+3. [House Price Prediction](https://github.com/cmliaa/housing-price-regression)
    
     A regression project that predicts house prices using scikit‑learn’s RandomForest model.
 
